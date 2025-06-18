@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Agung
-Full-stack developer specializing in Go, Node.js, React.js, and APIs.
 
+I'm a Full-stack Developer specializing in **Go**, **Node.js**, **React.js**, and **API development**.
 
-
-📫 Reach me: [LinkedIn]([https://linkedin.com/in/agungtripambudi](https://www.linkedin.com/in/agung-tri-pambudi-a5907244/)) | [Email](mailto:agungtripambudi@gmail.com)
-
-
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/agung-tri-pambudi-a5907244/) | [Email](mailto:agungtripambudi@gmail.com)
